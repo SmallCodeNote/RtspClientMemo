@@ -1,0 +1,1 @@
+textBox_RtspAddress	rtsp://{id}:{password}@{address}
